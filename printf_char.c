@@ -1,6 +1,6 @@
 /**
  * File : printf_char.c
- * 
+ *
  * Author: 7727@holbertonstudents.com
 */
 
@@ -9,7 +9,7 @@
 /**
  * printf_char - Function to print characters
  * @args: list of arguments
- * 
+ *
  * Return: 1
  */
 int printf_char(va_list args)

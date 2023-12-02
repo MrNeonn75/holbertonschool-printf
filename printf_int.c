@@ -1,6 +1,6 @@
 /**
  * File : printf_int.c
- * 
+ *
  * Author: 7727@holbertonstudents.com
 */
 
@@ -9,7 +9,7 @@
 /**
  * printf_int - Print numbers
  * @args: Arguments
- * 
+ *
  * Return: count
  */
 int printf_int(va_list args)

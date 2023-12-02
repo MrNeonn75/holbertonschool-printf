@@ -1,6 +1,6 @@
 /**
  * File : _printf.c
- * 
+ *
  * Author: 7727@holbertonstudents.com
 */
 
@@ -9,7 +9,7 @@
 /**
  * runner - choose the format/function
  * @c: character
- * 
+ *
  * Return: the correct function :)
  */
 int (*runner(char c))(va_list)
