@@ -1,11 +1,7 @@
-/**
- * Author: 7727@holbertonstudents.com
-*/
-
 #include "main.h"
 
 /**
- * runner : choose the format/function
+ * runner - choose the format/function
  * @c: character
  *
  * Return: the correct function :)

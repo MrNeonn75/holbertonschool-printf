@@ -1,11 +1,7 @@
-/**
- * Author: 7727@holbertonstudents.com
-*/
-
 #include "main.h"
 
 /**
- * printf_int : Print numbers
+ * printf_int - Print numbers
  * @args: Arguments
  *
  * Return: count
