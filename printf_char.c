@@ -1,13 +1,11 @@
 /**
- * File : printf_char.c
- *
  * Author: 7727@holbertonstudents.com
 */
 
 #include "main.h"
 
 /**
- * printf_char - Function to print characters
+ * printf_char : Function to print characters
  * @args: list of arguments
  *
  * Return: 1

@@ -1,6 +1,4 @@
 /**
- * File : printf_str.c
- *
  * Author: 7727@holbertonstudents.com
 */
 
@@ -8,7 +6,7 @@
 #include <stdlib.h>
 
 /**
- * printf_str - Prints the string
+ * printf_str : Prints the string
  * @args: string
  *
  * Return: lenght of string, and (null) if str is NULL
